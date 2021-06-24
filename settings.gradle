@@ -1,0 +1,2 @@
+rootProject.name = "MotataweraAdmin"
+include ':app'

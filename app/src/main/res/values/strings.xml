@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Motatawera Admin</string>
+    <string name="default_notification_channel_id">News</string>
+
+
+    <string name="error">هناك خطأ ما ، يرجى تسجيل الدخول مرة أخرى</string>
+    <string name="OK">حسنا</string>
+    <string name="weak_password">يجب أن تكون كلمة المرور أكبر من 6 أحرف</string>
+    <string name="try_email">البريد الإلكتروني أو كلمة السر خاطئة</string>
+    <string name="user_is_signUp">هذا المستخدم مسجل من قبل  يرجى اختيار بريد إلكتروني آخر</string>
+
+
+    <string name="no_account_create_one">ليس لديك حساب؟ اصنع واحدا</string>
+    <string name="welcome">أهلا بك</string>
+
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="already_have_an_account_sign_in">هل لديك حساب؟ تسجيل الدخول</string>
+    <string name="create_an_account">انشئ حساب</string>
+    <string name="emailReq">عنوان البريد الإلكتروني مطلوب</string>
+    <string name="invalidEmail">عنوان البريد الإلكتروني غير صالح</string>
+    <string name="passReq">كلمة المرور مطلوبة</string>
+    <string name="invalidPhone">يجب أن تكون كلمة المرور أكبر من 6 أحرف</string>
+    <string name="nameReq">مطلوب اسم</string>
+    <string name="phoneReq">الهاتف مطلوب</string>
+    <string name="phoInvalid">رقم الهاتف غير صحيح</string>
+    <string name="plzWait">رجاء الإنتظار...</string>
+
+    <string-array name="doctor_type">
+        <item>All</item>
+        <item>Waiting List</item>
+        <item>Approved</item>
+        <item>Doctor</item>
+        <item>Assistant</item>
+        <item>Deleted</item>
+        <item>Disabled</item>
+    </string-array>
+
+    <string-array name="m3hd">
+        <item>الهرم</item>
+        <item>القطامية</item>
+    </string-array>
+
+    <string-array name="department">
+        <item>نظم المعلومات الادارية</item>
+        <item>تجارة</item>
+        <item>محاسبة</item>
+    </string-array>
+
+    <string name="channel_name">Android</string>
+    <string-array name="grad">
+        <item>الفرقة الاولى</item>
+        <item>الفرقة الثانيه</item>
+        <item>الفرقة الثالثه</item>
+        <item>الفرقة الرابعه</item>
+    </string-array>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="_2021_kmk_inc">copyright</string>
+    <string name="registration">Registration</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="login">Login</string>
+    <string name="cominicate_with_a_hundred_of_students">Cominicate with a Hundred of Students</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddStudent">Add Student</string>
+    <string name="student_id">Student ID</string>
+    <string name="confirm_student_id">Confirm Student ID</string>
+    <string name="level">Level</string>
+    <string name="department">Department</string>
+    <string name="branch">Branch</string>
+    <string name="gender">Gender</string>
+    <string name="add_permission">Add Permission</string>
+    <string name="confirm">Confirm</string>
+    <string name="disable">Disable</string>
+    <string name="delete">Delete</string>
+    <string name="profile">Profile</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="noInternet">No Internet Connection ! Please Try Again Later !</string>
+    <string name="incorrectPass">incorrect Email Or Password</string>
+    <string name="state">State Title</string>
+    <string name="cancle">Cancel</string>
+    <string name="reason">Add Reason</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="chat">Chat</string>
+    <string name="addSubjectName">Add Subject Name</string>
+    <string name="AddSubject">Add Subject</string>
+
+    <string-array name="genderlist">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="branchlist">
+        <item>Haram</item>
+        <item>Qtamia</item>
+        <item>Haram And Qtamia</item>
+    </string-array>
+
+    <string-array name="departmentlist">
+        <item>Management Information System</item>
+        <item>Business</item>
+        <item>Accounting</item>
+    </string-array>
+
+    <string-array name="gradlist">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+    </string-array>
+
+</resources>

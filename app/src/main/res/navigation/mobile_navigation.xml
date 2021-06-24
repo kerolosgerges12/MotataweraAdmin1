@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation.xml"
+    app:startDestination="@id/nav_users">
+
+    <fragment
+        android:id="@+id/nav_youtube"
+        android:name="com.kmk.motatawera.admin.ui.fragment.youtube.YoutubeFragment"
+        android:label="Youtube"
+        tools:layout="@layout/fragment_youtube"/>
+    <fragment
+        android:id="@+id/nav_users"
+        android:name="com.kmk.motatawera.admin.ui.fragment.users.UsersFragment"
+        android:label="Professor or Teacher"
+        tools:layout="@layout/fragment_users" />
+    <fragment
+        android:id="@+id/nav_notification"
+        android:name="com.kmk.motatawera.admin.ui.fragment.notification.NotificationFragment"
+        android:label="Notification"
+        tools:layout="@layout/fragment_notification"/>
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.kmk.motatawera.admin.ui.fragment.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/nav_subject"
+        android:name="com.kmk.motatawera.admin.ui.fragment.subject.SubjectFilterFragment"
+        android:label="Subject"
+        tools:layout="@layout/fragment_filter_subject"/>
+</navigation>
